@@ -4,8 +4,8 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'July 31, 2020',
-  name: 'Vikas Muley'
+  birthdate: 'December 6, 2020',
+  name: 'Amit Shirwat a.k.a Tillya'
 };
 
 function hideEverything() {
