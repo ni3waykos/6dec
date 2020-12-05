@@ -5,7 +5,7 @@ const canvasC = document.getElementById('c');
 
 const config = {
   birthdate: 'December 6, 2020',
-  name: 'Amit Shirwat a.k.a Tillya'
+  name: 'Amit Shirwat'
 };
 
 function hideEverything() {
